@@ -2,7 +2,21 @@
   "data": [
    {
      "date": "2024-11-06",
-     "title": "Evento"
-   }
+     "type": "internal",
+     "title": "Nome evento",
+     "description": "Descrizione evento"
+   },
+  {
+   "date": "2024-11-06",
+   "type": "external",
+   "title": "Nome evento",
+   "description": "Descrizione evento"
+ },
+  {
+   "date": "2024-11-06",
+   "type": "university",
+   "title": "Nome evento",
+   "description": "Descrizione evento"
+ }
   ]
 }
