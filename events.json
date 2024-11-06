@@ -3,19 +3,19 @@
    {
      "date": "2024-11-06",
      "type": "internal",
-     "title": "Nome evento",
+     "title": "Nome evento 1",
      "description": "Descrizione evento"
    },
   {
    "date": "2024-11-06",
    "type": "external",
-   "title": "Nome evento",
+   "title": "Nome evento 2",
    "description": "Descrizione evento"
  },
   {
    "date": "2024-11-06",
    "type": "university",
-   "title": "Nome evento",
+   "title": "Nome evento 3",
    "description": "Descrizione evento"
  }
   ]
